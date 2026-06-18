@@ -94,7 +94,8 @@ Modern glassmorphism design with responsive layout.
 
 HTML is used to create the structure of the application, including input fields, dropdown menus, and result sections. CSS enhances the appearance with gradient backgrounds, blur effects, and hover animations. JavaScript performs the temperature conversion calculations and updates the converted result dynamically.
 
-🛠 Technologies Used
+🛠 Technologies Used:
+
 HTML5
 CSS3
 JavaScript
