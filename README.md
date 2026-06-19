@@ -7,8 +7,8 @@ GOKULNATHAN.S
 This repository contains the projects completed as part of the Oasis Infobyte Web Development and Designing Internship.
 
 🚀 Projects
-Task 1 - Landing Page
-FoodMunch – Responsive Food Store Website
+Task 1 - LANDING PAGE FOODMUNCH
+– Responsive Food Store Website
 Tagline: Get Delicious Food at Anytime.
 
 Project Description:
@@ -39,7 +39,7 @@ FoodMunch is a modern and user-friendly frontend project that demonstrates respo
 
 
 
-Task 2 - Portfolio Website 
+Task 2 - PORTFOLIO WEBSITE 
 
 Tagline: Showcasing My Skills, Projects, and Creativity.
 
@@ -66,7 +66,7 @@ This project demonstrates my understanding of frontend development and responsiv
 
 
 
-Task 3 - Temperature Converter
+Task 3 - TEMPERATURE CONVERTER 
 Temperature Converter – Documentation
 
 Description:
