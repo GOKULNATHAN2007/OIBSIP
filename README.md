@@ -105,7 +105,3 @@ JavaScript
 🌐 Live Demo
 GitHub Pages:https://gokulnathan2007.github.io/OIBSIP/
 
-📧 Contact
-GitHub: https://github.com/GOKULNATHAN2007
-
-LinkedIn: https://www.linkedin.com/in/gokul-nathan-826077328?utm_source=share_via&utm_content=profile&utm_medium=member_android
